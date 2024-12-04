@@ -2,7 +2,6 @@
 This project features an interactive **Power BI** dashboard built on the Super Store dataset, providing insights into sales trends, customer preferences, and business performance. The dashboard includes dynamic visualizations on segment-wise sales, payment modes, shipping modes, regional performance, and time-series analysis.
 
 **Key Features:**
-
 Sales Analysis by Segment and Payment Mode.
 Ship Mode Efficiency and Regional Sales Distribution.
 Monthly and YoY Sales & Profit Trends.
