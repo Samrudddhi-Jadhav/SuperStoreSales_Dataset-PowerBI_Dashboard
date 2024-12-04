@@ -7,6 +7,7 @@ Sales Analysis by Segment and Payment Mode.
 Ship Mode Efficiency and Regional Sales Distribution.
 Monthly and YoY Sales & Profit Trends.
 Top Products performance by category.
+
 **Objective:**
 To leverage data-driven insights for strategic decision-making, improving sales forecasting, and identifying business growth opportunities.
 
